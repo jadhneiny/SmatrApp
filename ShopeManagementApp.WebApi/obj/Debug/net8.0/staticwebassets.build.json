@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+SP2zB05GIE6hbR5Sr4ENTnHn9nd6jAKDctChdBe3vY=",
+  "Source": "ShopeManagementApp.WebApi",
+  "BasePath": "_content/ShopeManagementApp.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
