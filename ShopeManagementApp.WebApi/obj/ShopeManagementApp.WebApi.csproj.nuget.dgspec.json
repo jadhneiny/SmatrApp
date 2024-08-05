@@ -104,7 +104,7 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[13.0.1, )"
+              "version": "[12.0.1, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -113,22 +113,6 @@
             "Microsoft.Extensions.Logging": {
               "target": "Package",
               "version": "[8.0.0, )"
-            },
-            "NetTopologySuite": {
-              "target": "Package",
-              "version": "[2.5.0, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            },
-            "NodaTime": {
-              "target": "Package",
-              "version": "[3.1.11, )"
-            },
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[7.6.2, )"
             }
           },
           "imports": [
