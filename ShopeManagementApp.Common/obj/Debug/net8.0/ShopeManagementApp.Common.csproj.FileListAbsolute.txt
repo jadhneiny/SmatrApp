@@ -22,3 +22,4 @@
 /config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopeManagementApp_2024_08_03_18_35_24_304/ShopeManagementApp.Common/obj/Debug/net8.0/refint/ShopeManagementApp.Common.dll
 /config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopeManagementApp_2024_08_03_18_35_24_304/ShopeManagementApp.Common/obj/Debug/net8.0/ShopeManagementApp.Common.pdb
 /config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopeManagementApp_2024_08_03_18_35_24_304/ShopeManagementApp.Common/obj/Debug/net8.0/ShopeManagementApp.Common.sourcelink.json
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopeManagementApp_2024_08_03_18_35_24_304/ShopeManagementApp.Common/obj/Debug/net8.0/ShopeManagementApp.Common.sourcelink.json

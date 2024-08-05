@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopeManagementApp.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d824318b1363465900f25a577d638356a4d4f6a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d474b343e4d5132d0b01a12c4e3b8f8c309a7dbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopeManagementApp.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopeManagementApp.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
